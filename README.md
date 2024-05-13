@@ -4,4 +4,8 @@ Projekt "The Sims of Louis" został wykonany przez trzyosobowy zespół, który 
 
 # Moja-Rola-W-Zespole
 
-Moja główna rolą było zrobienie całej logiki gry i połączonie projektu w jedną spójność.
+Moją główną rolą było stworzenie całej logiki gry i połączenie projektu w jedną spójną całość. Za pomocą NavMeshAgent stworzyłem agenta, który przemieszcza się do określonych punktów w celu zaspokojenia swoich potrzeb.
+
+# W-Porftolio-Umieszczam
+
+-
