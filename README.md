@@ -15,5 +15,5 @@ Moją główną rolą było stworzenie całej logiki gry i połączenie projektu
     - [SimsManager.cs](Scripts/Routine/SimsManager.cs)
     - [MoveTo.cs](Scripts/Routine/MoveTo.cs)
 
-- Skrypt od wyświetlania zapotrzebowania.
+- Skrypt odpowiadający za wyświetlanie zapotrzebowania Sima.
     - [SliderBarNPC.cs](Scripts/Routine/SliderBarNPC.cs)
