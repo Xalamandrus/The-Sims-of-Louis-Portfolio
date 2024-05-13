@@ -14,6 +14,6 @@ Moją główną rolą było stworzenie całej logiki gry i połączenie projektu
 - Skrypty odpowiedzialne za rutynę Sima.
     - [SimsManager.cs]
     - [MoveTo.cs]
-    - 
+
 - Skrypt od wyświetlania zapotrzebowania.
     - [SliderBarNPC.cs](Scripts/Routine/SliderBarNPC.cs)
