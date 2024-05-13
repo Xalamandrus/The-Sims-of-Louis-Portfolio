@@ -6,7 +6,7 @@ Projekt "The Sims of Louis" został wykonany przez trzyosobowy zespół, który 
 
 Moją główną rolą było stworzenie całej logiki gry i połączenie projektu w jedną spójną całość. Za pomocą NavMeshAgent stworzyłem agenta, który przemieszcza się do określonych punktów w celu zaspokojenia swoich potrzeb.
 
-# W-Porftolio-Umieszczam
+# W-Portfolio-Umieszczam
 
 - Skrypt odpowiedzialny za obsługę zapotrzebowania Sima.
   - [Routine.cs](Scripts/ScriptableObjects/Routine.cs)
