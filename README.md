@@ -8,4 +8,6 @@ Moją główną rolą było stworzenie całej logiki gry i połączenie projektu
 
 # W-Porftolio-Umieszczam
 
--
+- Skrypt odpowiedzialny za obsługę zapotrzebowania Sima.
+
+- Skrypty odpowiedzialne za rutynę Sima.
