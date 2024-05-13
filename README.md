@@ -9,5 +9,6 @@ Moją główną rolą było stworzenie całej logiki gry i połączenie projektu
 # W-Porftolio-Umieszczam
 
 - Skrypt odpowiedzialny za obsługę zapotrzebowania Sima.
+  - [Routine.cs](Scripts/ScriptableObjects/Routine.cs)
 
 - Skrypty odpowiedzialne za rutynę Sima.
