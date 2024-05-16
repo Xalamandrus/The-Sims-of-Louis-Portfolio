@@ -1,6 +1,6 @@
 # The-Sims-of-Louis
 
-Projekt "The Sims of Louis" został wykonany przez trzyosobowy zespół, który składał się z grafika, designera i programisty. Jest to projekt zaliczeniowy, w którym głównym celem było stworzenie symulacji postaci, która ma swoje zapotrzebowania i podejmuje odpowiednie działania, aby je zaspokoić.
+Projekt "The Sims of Louis" miał na celu stworzenie symulacji postaci, która ma swoje zapotrzebowania i podejmuje odpowiednie działania, aby je zaspokoić.
 
 Prezentacja projektu i mechanik: https://www.youtube.com/watch?v=9Bv5718KzT0
 
